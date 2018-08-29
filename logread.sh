@@ -1,11 +1,12 @@
-#uthor : shrk
+#     author : shrk
 #
 #     input 1st arg : filepath
 #     input 2nd arg : starting pattern
 #     input 3rd arg : [-p : pattern] || [-n : number]
 
-#     sample fomat: .logread/sh "10/May/2017" "11/May/2017"
-#                   prints 10/May <= logs <= 11/May
+#     sample fomat: .logread.sh "starting_pattern" -p "ending_pattern" (prints all the lines found between starting and ending pattern)
+#                   .logread.sh "starting_pattern" -n 20 (prints all the lines found between starting pattern and subsequent 20 lines)
+#                   
 
 
 
