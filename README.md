@@ -1,4 +1,4 @@
-#Utilities
+# Utilities
 
 >Helpful tools developed while working on projects
 
@@ -7,7 +7,7 @@
 > Extract information from huge log files by providing a starting pattern and ending pattern
 
 
-* -n (from first pattern, get 30 subsequent lines)
+* -n (from first pattern, get n subsequent lines)
 * -p (from first pattern, get all lines till second pattern is found)
 
 *examples.*
