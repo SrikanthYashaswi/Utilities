@@ -8,10 +8,6 @@
 #                   .logread.sh "starting_pattern" -n 20 (prints all the lines found between starting pattern and subsequent 20 lines)
 #                   
 
-
-
-
-
 log_file=$1
 
 # default directory for storing generated logs
